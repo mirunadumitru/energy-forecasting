@@ -1,7 +1,6 @@
 # Energy Forecasting Project
 
-## What this project is about
-This is my final project for [class/project name if applicable].  
+## What this project is about 
 The idea was to predict how much energy a household would use (for appliances) based on past usage and things like temperature, humidity, and time of day.  
 I also wanted to see which forecasting models actually work best for this kind of time series data.
 
