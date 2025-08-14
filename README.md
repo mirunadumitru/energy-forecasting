@@ -44,3 +44,4 @@ git clone https://github.com/mirunadumitru/energy-forecasting.git
 cd energy-forecasting
 pip install -r requirements.txt
 streamlit run app.py
+If you do not want to run it locally, you can check the results on the deployed streamlit dashboard at https://energy-forecasting-app.streamlit.app/.
